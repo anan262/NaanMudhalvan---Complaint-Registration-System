@@ -1,4 +1,4 @@
-# ComplaintAppAngular
+# Complaint Registration System
 
 This project was generated with [Angular CLI] version 17.3.6.
 
